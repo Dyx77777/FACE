@@ -1,4 +1,4 @@
-# FACE: A General Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens [Paper]
+# FACE: A General Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens [paper]
 
 [![arXiv](https://img.shields.io/badge/arXiv-1706.03762-b31b1b.svg)](https://arxiv.org/abs/2510.15729)
 
